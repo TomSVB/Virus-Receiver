@@ -5,3 +5,4 @@
 
 *EXTRAS 
 1. Rename the Virus so the victim dont see trough
+2. It only runs Local. so if you run receiver and a Victim opens it it will save The Data. But only If the Receiver is running. 
